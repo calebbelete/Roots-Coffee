@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roots Coffee - Ethiopian Coffee</title>
+
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+
+<!-- HERO -->
+<section class="bg-black text-white text-center py-20 px-4">
+<h1 class="text-4xl md:text-6xl font-bold mb-6">
+Roots Coffee ☕
+</h1>
+
+<p class="text-lg mb-6 max-w-xl mx-auto">
+Authentic Ethiopian coffee, freshly roasted and delivered to you.
+From the birthplace of coffee to your cup.
+</p>
+
+<p class="text-green-400 font-semibold mb-8">
+Fresh • Local • Premium Quality
+</p>
+
+<a href="tel:0911231887"
+class="bg-green-600 px-6 py-3 rounded-full font-bold">
+Call to Order: 0911231887
+</a>
+</section>
+
+<!-- PRODUCTS -->
+<section class="py-16 max-w-6xl mx-auto px-4">
+<h2 class="text-3xl font-bold text-center mb-12">Our Coffee</h2>
+
+<div class="grid md:grid-cols-3 gap-8">
+
+<div class="bg-white p-6 rounded-xl shadow text-center">
+<h3 class="text-xl font-bold mb-2">Light Roast</h3>
+<p class="mb-4">Smooth, fruity and aromatic.</p>
+<p class="text-2xl font-bold mb-4">500 Birr</p>
+<a href="tel:0911231887"
+class="bg-black text-white px-4 py-2 rounded">Call to Order</a>
+</div>
+
+<div class="bg-white p-6 rounded-xl shadow text-center border-2 border-black">
+<h3 class="text-xl font-bold mb-2">Medium Roast</h3>
+<p class="mb-4">Balanced, rich and smooth.</p>
+<p class="text-2xl font-bold mb-4">500 Birr</p>
+<a href="tel:0911231887"
+class="bg-black text-white px-4 py-2 rounded">Call to Order</a>
+</div>
+
+<div class="bg-white p-6 rounded-xl shadow text-center">
+<h3 class="text-xl font-bold mb-2">Dark Roast</h3>
+<p class="mb-4">Strong, bold and intense.</p>
+<p class="text-2xl font-bold mb-4">500 Birr</p>
+<a href="tel:0911231887"
+class="bg-black text-white px-4 py-2 rounded">Call to Order</a>
+</div>
+
+</div>
+</section>
+
+<!-- WHY ROOTS -->
+<section class="bg-gray-100 py-16 text-center px-4">
+<h2 class="text-3xl font-bold mb-10">Why Roots Coffee?</h2>
+
+<div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+
+<div>
+<h3 class="font-bold text-xl mb-2">100% Ethiopian</h3>
+<p>Sourced directly from Ethiopian coffee farms.</p>
+</div>
+
+<div>
+<h3 class="font-bold text-xl mb-2">Fresh Roasted</h3>
+<p>Roasted locally for maximum freshness.</p>
+</div>
+
+<div>
+<h3 class="font-bold text-xl mb-2">Fast Delivery</h3>
+<p>Quick delivery to your door.</p>
+</div>
+
+</div>
+</section>
+
+<!-- CTA -->
+<section class="py-20 text-center">
+<h2 class="text-3xl font-bold mb-6">Order Your Coffee Today</h2>
+
+<p class="mb-8">Call us now to place your order</p>
+
+<a href="tel:0911231887"
+class="bg-green-600 text-white px-8 py-4 rounded-full font-bold">
+Call Now: 0911231887
+</a>
+</section>
+
+<!-- FOOTER -->
+<footer class="bg-black text-white text-center py-6">
+<p>© 2026 Roots Coffee | Call: 0911231887</p>
+</footer>
+
+</body>
+</html>
